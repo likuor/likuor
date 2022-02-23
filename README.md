@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likuor&layout=compact&theme=tokyonight)](https://github.com/likuor/)
+
 <!--
 **likuor/likuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
