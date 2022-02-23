@@ -2,8 +2,8 @@
 [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue}](https://www.linkedin.com/in/kokisakai/)
 [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue}](https://www.linkedin.com/in/kokisakai/)
 
-[![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})]
-
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+[![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue})](https://www.linkedin.com/in/kokisakai/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likuor&layout=compact&theme=tokyonight)](https://github.com/likuor/)
 
 <!--
