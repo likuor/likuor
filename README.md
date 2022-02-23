@@ -2,7 +2,7 @@
 
 #### [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue})](https://www.linkedin.com/in/kokisakai/)
 
-####[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likuor&layout=compact&theme=tokyonight)](https://github.com/likuor/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likuor&layout=compact&theme=tokyonight)](https://github.com/likuor/)
 
 <!--
 **likuor/likuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
