@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
+
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likuor&layout=compact&theme=tokyonight)](https://github.com/likuor/)
 
 <!--
