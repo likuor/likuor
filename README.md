@@ -15,14 +15,21 @@ Curretnly in Vancouver, BC 🇨🇦
    
 
 ## 🖥 Projects I've made so far
+#### 🤝Team project
 
 -  **[Doctor Appointment App](https://doctor-appointment-dusky.vercel.app/home)** - **Javascript, React, Express, MongoDB,Node.js, Redux**   
 
      Repository: [Doctor Appointment App](https://github.com/kubilaycakmak/doctor-appointment)   
      My role: Selecting appointment availability page and Login auth page. Adjusting CSS, making atomic component like buttons.
      React.js app connecting to mongoDB and Firebase with teammates. Deployed with Netlify.   
+     
+     
+- **[Vamos](https://event-bbs.web.app/)** - **Javascript, React, MUI, Firebase**  
 
+     Repository: [event-bbs](https://github.com/rei-kaji/event-bbs)  
+     Practice for using React and firebase.
 
+#### 🏋️‍♀️Indivisual project
 - **[Portfolio](https://kokisakai.netlify.app/)** - **Typescript, React, Three.js, Styled-Component, Framer Motion**  
 
      Repository: [Portfolio](https://github.com/likuor/portfolio-ts)  
@@ -35,11 +42,7 @@ Curretnly in Vancouver, BC 🇨🇦
      Typescript and using AntDesign practice. Deployed with Netlify.
      
 
-- **[Vamos](https://event-bbs.web.app/)** - **Javascript, React, MUI, Firebase**  
 
-     Repository: [event-bbs](https://github.com/rei-kaji/event-bbs)  
-     Practice for using React and firebase.
-     
 
 ## 👨‍💻 Clients work I've done so far     
 - **[Katsuraba-Kitchen](https://katsuraba-kitchien.netlify.app/)** - **Javascript, React, TailwindCSS, Firebase**  
