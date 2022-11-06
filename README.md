@@ -43,7 +43,7 @@ Curretnly in Vancouver, BC 🇨🇦
 
 - **[Vamos](https://event-bbs.web.app/)** - **Javascript, React, MUI, Firebase**  
 
-     Repository: [event-bbs]([https://github.com/likuor/ghibli](https://github.com/rei-kaji/event-bbs)  
+     Repository: [event-bbs](https://github.com/rei-kaji/event-bbs)  
      Practice for using React and firebase.
      
 <!--      <img width="715" alt="Blog App" src="https://user-images.githubusercontent.com/58070973/153057065-0feacf26-b6be-45e1-a305-0003c99c08ab.png"> -->
