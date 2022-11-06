@@ -16,9 +16,10 @@ Curretnly in Vancouver, BC 🇨🇦
 
 ## 🖥 Projects I've made so far
 
--  **[Doctor Appointment App](https://easydoctorappointment.netlify.app/home)** - **Javascript, React, Firebase, MongoDB, Redux**   
+-  **[Doctor Appointment App](https://doctor-appointment-dusky.vercel.app/home)** - **Javascript, React, Express, MongoDB,Node.js, Redux**   
 
      Repository: [Doctor Appointment App](https://github.com/kubilaycakmak/doctor-appointment)   
+     My role: Selecting appointment availability page and Login auth page. Adjusting CSS, making atomic component like buttons.
      React.js app connecting to mongoDB and Firebase with teammates. Deployed with Netlify.   
 
 
@@ -27,7 +28,6 @@ Curretnly in Vancouver, BC 🇨🇦
      Repository: [Portfolio](https://github.com/likuor/portfolio-ts)  
      React×Typescript app. Deployed with Netlify.   
     
-
      
 - **[Ghibli Exhibition](https://ghibli-exhibition.netlify.app/)** - **Typescript, React, AntDesign, Redux**  
 
