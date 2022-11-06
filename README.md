@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Koki Sakai
 
-I'm a web developer with 1+ year of experience with from design to coding using React.js, Express, Node.js and CakePHP. 
+I'm a web developer with 1+ year of experience with from design to coding using Javasript, Typescript, React, Express, Node.js and CakePHP. 
 Curretnly in Vancouver, BC 🇨🇦
 
 **Here's my:** [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue})](https://www.linkedin.com/in/kokisakai/)
