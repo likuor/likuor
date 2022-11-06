@@ -8,7 +8,8 @@ Curretnly in Vancouver, BC 🇨🇦
 **Here's my:** [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue})](https://www.linkedin.com/in/kokisakai/)
 
 **Here's my Portfolio:** [Kokisakai](https://kokisakai.netlify.app)
-![portfolio](https://github.com/likuor/portfolio-ts/blob/main/public/image/works/Portfolio/Portfolio.png)
+[![image](https://github.com/likuor/portfolio-ts/blob/main/public/image/works/Portfolio/Portfolio.png)](https://kokisakai.netlify.app)
+<!-- ![portfolio](https://github.com/likuor/portfolio-ts/blob/main/public/image/works/Portfolio/Portfolio.png) -->
 
 ## 📌 Project I'm working on currently
 
