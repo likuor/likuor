@@ -8,8 +8,9 @@ Curretnly in Vancouver, BC 🇨🇦
 **Here's my:** [![image](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue})](https://www.linkedin.com/in/kokisakai/)
 
 **Here's my Portfolio:** [Kokisakai](https://kokisakai.netlify.app)
+![portfolio](https://github.com/likuor/portfolio-ts/blob/main/public/image/works/Portfolio/Portfolio.png)
 
-## 📌 Project I'm working on
+## 📌 Project I'm working on currently
 
 -  **[VanStage]()** - React.js, MUI, GraphQL, GraphCMS
    
@@ -22,6 +23,7 @@ Curretnly in Vancouver, BC 🇨🇦
      Repository: [Doctor Appointment App](https://github.com/kubilaycakmak/doctor-appointment)   
      My role: Selecting appointment availability page and Login auth page. Adjusting CSS, making atomic component like buttons.
      React.js app connecting to mongoDB and Firebase with teammates. Deployed with Netlify.   
+     
      
      
 - **[Vamos](https://event-bbs.web.app/)** - **Javascript, React, MUI, Firebase**  
