@@ -22,7 +22,7 @@ Curretnly in Vancouver, BC 🇨🇦
      React.js app connecting to mongoDB and Firebase with teammates. Deployed with Netlify.   
 
 
-- **[Portfolio](https://kokisakai.netlify.app/)** - **Typescript, React, Three.js, Styled-Component**  
+- **[Portfolio](https://kokisakai.netlify.app/)** - **Typescript, React, Three.js, Styled-Component, Framer Motion**  
 
      Repository: [Portfolio](https://github.com/likuor/portfolio-ts)  
      React×Typescript app. Deployed with Netlify.   
