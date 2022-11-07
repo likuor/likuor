@@ -19,7 +19,7 @@ Curretnly in Vancouver, BC 🇨🇦
 -  **[Doctor Appointment App](https://doctor-appointment-dusky.vercel.app/home)** - **Javascript, React, Express, MongoDB,Node.js, Redux**   
 
      Repository: [Doctor Appointment App](https://github.com/kubilaycakmak/doctor-appointment)   
-     My role: Selecting appointment availability page and Login auth page. Adjusting CSS, making atomic component like buttons.
+     My role: (Front-end) Making appointment availability page and Login auth page. Adjusting CSS, making atomic component like buttons.
      React.js app connecting to mongoDB and Firebase with teammates. Deployed with Netlify.   
      
      
@@ -27,6 +27,7 @@ Curretnly in Vancouver, BC 🇨🇦
 - **[Vamos](https://event-bbs.web.app/)** - **Javascript, React, MUI, Firebase**  
 
      Repository: [event-bbs](https://github.com/rei-kaji/event-bbs)  
+     My role: (Front-end) Making home page and designing all pages. (Back-end)Adjusting showing data on detail page.
      Practice for using React and firebase.
 
 #### 🏋️‍♀️Indivisual project
