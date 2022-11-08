@@ -31,6 +31,11 @@ Curretnly in Vancouver, BC 🇨🇦
      Practice for using React and firebase.
 
 #### 🏋️‍♀️Indivisual project
+- **[Blog app](https://blogapp-bykoki.onrender.com/)** - **Typescript, React, Express, Node.js, MongoDB, React-Bootstrap**  
+
+     Repository: [Blog-ppp](https://github.com/likuor/blogapp)  
+     MERN(MongoDB, Express, React.ts, Node.js)app. Deployed with Render.com.   
+     
 - **[Portfolio](https://kokisakai.netlify.app/)** - **Typescript, React, Three.js, Styled-Component, Framer Motion**  
 
      Repository: [Portfolio](https://github.com/likuor/portfolio-ts)  
@@ -42,8 +47,6 @@ Curretnly in Vancouver, BC 🇨🇦
      Repository: [Ghibli Exhibition](https://github.com/likuor/ghibli)  
      Typescript and using AntDesign practice. Deployed with Netlify.
      
-
-
 
 ## 👨‍💻 Clients work I've done so far     
 - **[Katsuraba-Kitchen](https://katsuraba-kitchien.netlify.app/)** - **Javascript, React, TailwindCSS, Firebase**  
