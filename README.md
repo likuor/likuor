@@ -22,8 +22,6 @@ Curretnly in Vancouver, BC 🇨🇦
      My role: (Front-end) Making appointment availability page and Login auth page. Adjusting CSS, making atomic component like buttons.
      React.js app connecting to mongoDB and Firebase with teammates. Deployed with Netlify.   
      
-     
-     
 - **[Vamos](https://event-bbs.web.app/)** - **Javascript, React, MUI, Firebase**  
 
      Repository: [event-bbs](https://github.com/rei-kaji/event-bbs)  
@@ -34,6 +32,7 @@ Curretnly in Vancouver, BC 🇨🇦
 - **[Blog app](https://blogapp-bykoki.onrender.com/)** - **Typescript, React, Express, Node.js, MongoDB, React-Bootstrap**  
 
      Repository: [Blog-ppp](https://github.com/likuor/blogapp)  
+     Test user email *admin@gmail.com* password: *Admin123*
      MERN(MongoDB, Express, React.ts, Node.js)app. Deployed with Render.com.   
      
 - **[Portfolio](https://kokisakai.netlify.app/)** - **Typescript, React, Three.js, Styled-Component, Framer Motion**  
