@@ -32,8 +32,9 @@ Curretnly in Vancouver, BC 🇨🇦
 - **[Blog app](https://blogapp-bykoki.onrender.com/)** - **Typescript, React, Express, Node.js, MongoDB, React-Bootstrap**  
 
      Repository: [Blog-ppp](https://github.com/likuor/blogapp)  
-     Test user email *admin@gmail.com* password: *Admin123*
-     MERN(MongoDB, Express, React.ts, Node.js)app. Deployed with Render.com.   
+     MERN(MongoDB, Express, React.ts, Node.js)app. Deployed with Render.com.  
+     Test user email: *admin@gmail.com* password: *Admin1234*. 
+
      
 - **[Portfolio](https://kokisakai.netlify.app/)** - **Typescript, React, Three.js, Styled-Component, Framer Motion**  
 
