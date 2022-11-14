@@ -10,7 +10,7 @@ Curretnly in Vancouver, BC 🇨🇦
 
 ## 📌 Project I'm working on currently
 
--  **[VanStage]()** - React.js, MUI, GraphQL, GraphCMS
+-  **[VanStage](https://vanstage.netlify.app/)** - React.js, MUI, GraphQL, GraphCMS
    
 
 ## 🖥 Projects I've made so far
