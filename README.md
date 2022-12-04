@@ -31,10 +31,10 @@ Curretnly in Vancouver, BC 🇨🇦
      Practice for using React and firebase.
 
 #### 🏋️‍♀️Indivisual project
-- **[Blog app with CMS](https://blogapp-bykoki.onrender.com/)** - **Next.js, React, Node.js, TailwindCSS, Contentfull**  
+- **[Blog app with CMS](https://blog-cms-delta.vercel.app/)** - **Next.js, React, Node.js, TailwindCSS, Contentfull**  
 
      Repository: [Blog-cms](https://github.com/likuor/blog-cms)  
-     Next.js and headless CMS app. Deployed with Vercel.  
+     Next.js and headless CMS app. Deployed with Vercel.
      
 - **[Blog app](https://blogapp-bykoki.onrender.com/)** - **Typescript, React, Express, Node.js, MongoDB, React-Bootstrap**  
 
