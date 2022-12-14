@@ -18,6 +18,11 @@ Curretnly in Vancouver, BC 🇨🇦
 ## 🖥 Projects I've made so far
 #### 🤝Team project
 
+-  **[Chillip](https://main.d1q845p9ygn1yh.amplifyapp.com/)** - **Javascript, React, MUI, Styled-components, Node, Express.js, MongoDB, Socket.io, AWS S3**   
+     Repository: [matchingapp-frontend](https://github.com/tenmusu007/matchingapp-frontend)   
+     My role: (Front-end) All front pages.
+     Full stack app using React, Node, Express, MongoDB . Deployed with Amplify.   
+
 -  **[Doctor Appointment App](https://doctor-appointment-dusky.vercel.app/home)** - **Javascript, React, Express, MongoDB,Node.js, Redux**   
 
      Repository: [Doctor Appointment App](https://github.com/kubilaycakmak/doctor-appointment)   
