@@ -24,6 +24,7 @@ Curretnly in Vancouver, BC 🇨🇦
      Repository: [matchingapp-frontend](https://github.com/tenmusu007/matchingapp-frontend)   
      My role: (Front-end) All front pages.
      Full stack app using React, Node, Express, MongoDB . Deployed with Amplify.   
+     Test user email: *admin@gmail.com* password: *Admin1234*. 
 
 -  **[Doctor Appointment App](https://doctor-appointment-dusky.vercel.app/home)** - **Javascript, React, Express, MongoDB,Node.js, Redux**   
 
