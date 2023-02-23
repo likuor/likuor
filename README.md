@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Koki Sakai => [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokisakai/)
 
-I'm a web developer with 1+ year of experience with from design to coding using Javasript, Typescript, React, Express, Node.js and CakePHP. 
+I'm a front-end developer with 2+ years of equivqlent experience in developing including ReactTs and NextTs. 
 Curretnly in Vancouver, BC 🇨🇦
 
 **Here's my Portfolio:** [Kokisakai](https://kokisakai.netlify.app)
