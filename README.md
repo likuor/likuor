@@ -8,12 +8,6 @@ Curretnly in Vancouver, BC 🇨🇦
 **Here's my Portfolio:** [Kokisakai](https://kokisakai.netlify.app)
 [![portfolio](https://github.com/likuor/portfolio-ts/blob/main/public/image/works/Portfolio/Portfolio.png)](https://kokisakai.netlify.app)
 
-## 📌 Project I'm working on currently
-
--  **[PPlane](https://vanstage.netlify.app/)** - React.js, MUI, GraphQL, GraphCMS
-     
-     Repository: [Vanstage](https://github.com/rei-kaji/VanStage)  
-   
 
 ## 🖥 Projects I've made so far
 #### 🤝Team project
