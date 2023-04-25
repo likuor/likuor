@@ -5,6 +5,8 @@
 I'm a front-end developer with 2+ years of equivqlent experience in developing including ReactTs and NextTs. 
 Curretnly in Vancouver, BC 🇨🇦
 
+Repository for work: https://github.com/koki-sakai-80
+
 **Here's my Portfolio:** [Kokisakai](https://kokisakai.netlify.app)
 [![portfolio](https://github.com/likuor/portfolio-ts/blob/main/public/image/works/Portfolio/Portfolio.png)](https://kokisakai.netlify.app)
 
