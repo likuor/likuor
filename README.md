@@ -1,6 +1,6 @@
 ### 
 
-# Hi there 👋, I'm Koki Sakai => [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokisakai/)
+# [Hi there 👋, I'm Koki ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokisakai/)
 
 I'm a front-end developer with 2+ years of equivqlent experience in developing including ReactTs and NextTs. 
 Curretnly in Vancouver, BC 🇨🇦
