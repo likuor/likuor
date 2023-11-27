@@ -34,6 +34,9 @@ Curretnly in Vancouver, BC 🇨🇦
 
 #### 🏋️‍♀️Indivisual project
 - **[Blog app using Next.js and Supabase](https://blog-supabase-five.vercel.app/)** - **Next.js, React, Typescript, TailwindCSS, Prisma, Supabase, React Query**
+ 
+     Repository: [blog-supabase](https://github.com/likuor/blog-supabase)  
+     Next.js and supabase app. Deployed with Vercel.
 
 - **[Blog app with CMS](https://blog-cms-delta.vercel.app/)** - **Next.js, React, Node.js, TailwindCSS, Contentfull**  
 
