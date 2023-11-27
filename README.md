@@ -33,6 +33,8 @@ Curretnly in Vancouver, BC 🇨🇦
      Practice for using React and firebase.
 
 #### 🏋️‍♀️Indivisual project
+- **[Blog app using Next.js and Supabase](https://blog-supabase-five.vercel.app/)** - **Next.js, React, Typescript, TailwindCSS, Prisma, Supabase, React Query**
+- 
 - **[Blog app with CMS](https://blog-cms-delta.vercel.app/)** - **Next.js, React, Node.js, TailwindCSS, Contentfull**  
 
      Repository: [Blog-cms](https://github.com/likuor/blog-cms)  
