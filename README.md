@@ -27,4 +27,4 @@ MicroCMS, Contentful, Wordpress
 ## ✅ Portfolio
 
 **Here's my Portfolio:** https://koki-sakai-portfolio.vercel.app/
-[![portfolio](https://github.com/likuor/portfolio-ts/blob/main/public/image/works/Portfolio/Portfolio.png)]([https://koki-sakai-portfolio.vercel.app/](https://koki-sakai-portfolio.vercel.app/))
+[![portfolio](https://github.com/likuor/portfolio-v1.1/blob/main/public/images/works/portfoliov2.png)]([https://koki-sakai-portfolio.vercel.app/](https://koki-sakai-portfolio.vercel.app/))
