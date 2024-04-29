@@ -7,16 +7,16 @@ Full-stack developer with 2+ years of experience in advanced web technologies. S
 
 ## 🖥 Skills
 - LANGUAGES    
-Javascript, Typescript, PHP, Python, SQL, HTML, CSS, SASS/SCSS    
-<img src="https://skillicons.dev/icons?i=js,typescript,php,python,threejs,html,css,scss" /> <br /><br />
+Javascript, Typescript, Python, SQL, HTML, CSS, SASS/SCSS    
+<img src="https://skillicons.dev/icons?i=js,typescript,python,threejs,html,css,scss" /> <br /><br />
 
 - FRAMEWORKS & LIBRARIES    
-React, Next.js, Node.js, Express.js, Laravel, React Query, Prisma, Zustand, Redux    
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,laravel,prisma,redux" /> <br /><br />
+React, Next.js, Node.js, Express.js, React Query, Prisma, Zustand, Redux    
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,prisma,redux" /> <br /><br />
 
 - DATABASE      
-Amazon DynamoDB, MySQL, PostgreSQL, MongoDB, Firebase, supabase    
-<img src="https://skillicons.dev/icons?i=dynamodb,mysql,postgres,mongodb,firebase,supabase" /> <br /><br />
+Amazon DynamoDB, MySQL, PostgreSQL, MongoDB, supabase    
+<img src="https://skillicons.dev/icons?i=dynamodb,mysql,postgres,mongodb,supabase" /> <br /><br />
 
 - Infrastructure    
 AWS (Lambda, S3, SES, IAM, IoT core, Kinesis Video Streams), Docker, Terraform    
