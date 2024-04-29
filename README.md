@@ -8,7 +8,7 @@ Full-stack developer with 2+ years of experience in advanced web technologies. S
 ## 🖥 Skills
 - LANGUAGES    
 Javascript, Typescript, Python, SQL, HTML, CSS, SASS/SCSS    
-<img src="https://skillicons.dev/icons?i=js,typescript,python,threejs,html,css,scss" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,python,html,css,scss" /> <br /><br />
 
 - FRAMEWORKS & LIBRARIES    
 React, Next.js, Node.js, Express.js, React Query, Prisma, Zustand, Redux    
