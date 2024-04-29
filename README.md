@@ -11,8 +11,8 @@ Javascript, Typescript, SQL, HTML, CSS, SASS/SCSS
 <img src="https://skillicons.dev/icons?i=js,typescript,html,css,scss" /> <br /><br />
 
 - FRAMEWORKS & LIBRARIES    
-React, Next.js, Node.js, Express.js, Fastify, TanStack Query, Prisma, Zustand
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,prisma" /> <br /><br />
+React, Next.js, Node.js, Express.js, Fastify, TanStack Query, Prisma, Zustand, jest, TailwindCSS
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,prisma,jest,tailwind" /> <br /><br />
 
 - DATABASE      
 Amazon DynamoDB, PostgreSQL, supabase    
@@ -23,9 +23,11 @@ AWS (Lambda, S3, SES, IAM, IoT core, Kinesis Video Streams), Docker, Terraform
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform" /> <br /><br />
 
 - Other    
-Git, Bitbucket    
+Git
 Storybook, Zeplin, AdobeXD, Figma    
 MicroCMS, Contentful, Wordpress    
+<img src="https://skillicons.dev/icons?i=git,xd,figma,wordpress" /> <br /><br />
+
 
 
 
