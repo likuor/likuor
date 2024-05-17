@@ -11,7 +11,7 @@ Javascript, Typescript, SQL, HTML, CSS, SASS/SCSS
 <img src="https://skillicons.dev/icons?i=js,typescript,html,css,scss" /> <br /><br />
 
 - FRAMEWORKS & LIBRARIES    
-React, Next.js, Node.js, Express.js, Fastify, TanStack Query, Prisma, Zustand, jest, TailwindCSS
+React, Next.js, Node.js, Express.js, Fastify, TanStack Query, Prisma, Zustand, Playwright, Jest, TailwindCSS
 <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,prisma,jest,tailwind" /> <br /><br />
 
 - DATABASE      
