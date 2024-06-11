@@ -2,7 +2,7 @@
 
 # [Hi there 👋, I'm Koki ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokisakai/)
 
-Full-stack developer with 2+ years of experience in advanced web technologies. Specializing in Javascript/Typescript, Next.js, React, Node.js, PHP, AWS for building apps of AI robots, E-commerce(EC) websites. 
+Full-stack developer with 2+ years of experience in advanced web technologies. Specializing in Javascript/Typescript, Next.js, React, Node.js, AWS for building SaaS of AI robots, E-commerce(EC) websites. 
 
 
 ## 🖥 Skills
